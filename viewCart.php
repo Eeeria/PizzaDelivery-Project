@@ -113,6 +113,14 @@
                             <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" checked>
                             <label class="form-check-label" for="flexRadioDefault1">
                                 Cash On Delivery 
+                            </label> <br>
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                GCash 
+                            </label> <br>
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                Credit Card
                             </label>
                         </div>
                         <div class="form-check">
